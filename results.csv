@@ -1,0 +1,5 @@
+,Linear Regression,KNN Regressor,Random Forest Regressor,Bagging Regressor,Adaboost Regressor,XG Boost Regressor,DNN Regressor
+MSE,0.6465,0.2907,0.1922,0.3443,0.1772,0.1343,0.0212
+RMSE,0.8041,0.5392,0.4384,0.5868,0.4209,0.3664,0.1455
+R2 Score,0.3524,0.7088,0.8075,0.6551,0.8225,0.8655,0.6251
+Accuracy(%),35.2399,70.881,80.7474,65.5083,82.2524,86.5507,62.5141
